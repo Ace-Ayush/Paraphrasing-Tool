@@ -50,7 +50,7 @@ def call_result(label_result, n):
     return
 
 root = tk.Tk()  
-root.geometry('400x400')    
+root.geometry('588x588')    
 root.title('Paraphrasing Tool by Ayush Shrivastava')  
 number1 = tk.StringVar()  
 labelNum1 = tk.Label(root, text="Enter text to Paraphrase")
